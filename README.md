@@ -1,5 +1,5 @@
 [![CI with GitHub Actions using Apache Ant and JUnit | © 2023 by ThinhMai](https://github.com/Thinhwb/mathutil-ant/actions/workflows/mathutil-ci-ant.yml/badge.svg)](https://github.com/Thinhwb/mathutil-ant/actions/workflows/mathutil-ci-ant.yml)
-Welcome
+
 # Welcome to Math Utility Repository 
 
 ### You will find in this repo the following stuff(Java code):
