@@ -29,7 +29,7 @@ public class MathUtility {
         //Sống sót đến lệch dưới đâu sure n= 2..20
        
         long product=1 ;
-        for (int i = 2; i <=n; i++) 
+        for (int i = 2; i <n; i++) //make code wrong!!
             product *= i;
         
         return product;
